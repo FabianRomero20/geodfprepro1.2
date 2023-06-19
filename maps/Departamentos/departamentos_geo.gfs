@@ -1,0 +1,31 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>departamentos_geo</Name>
+    <ElementPath>departamentos_geo</ElementPath>
+    <GeometryType>6</GeometryType>
+    <SRSName>EPSG:4326</SRSName>
+    <DatasetSpecificInfo>
+      <FeatureCount>9</FeatureCount>
+      <ExtentXMin>-69.64525</ExtentXMin>
+      <ExtentXMax>-57.45443</ExtentXMax>
+      <ExtentYMin>-22.90657</ExtentYMin>
+      <ExtentYMax>-9.66963</ExtentYMax>
+    </DatasetSpecificInfo>
+    <PropertyDefn>
+      <Name>id</Name>
+      <ElementPath>id</ElementPath>
+      <Type>Integer</Type>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>c_ut</Name>
+      <ElementPath>c_ut</ElementPath>
+      <Type>Integer</Type>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>DEPARTAMEN</Name>
+      <ElementPath>DEPARTAMEN</ElementPath>
+      <Type>String</Type>
+      <Width>10</Width>
+    </PropertyDefn>
+  </GMLFeatureClass>
+</GMLFeatureClassList>
